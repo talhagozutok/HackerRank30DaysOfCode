@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day-06-Review", "Day-06-Rev
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day-07-Arrays", "Day-07-Arrays\Day-07-Arrays.csproj", "{9D5816C9-2315-4047-8661-5D741517B2E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day-08-DictionariesMaps", "Day-08-DictionariesMaps\Day-08-DictionariesMaps.csproj", "{1ABDD25E-74A9-43E4-94DC-5E6236C4109B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day-08-DictionariesMaps", "Day-08-DictionariesMaps\Day-08-DictionariesMaps.csproj", "{1ABDD25E-74A9-43E4-94DC-5E6236C4109B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day-09-Recursion", "Day-09-Recursion\Day-09-Recursion.csproj", "{290BE154-B7B6-4305-A99B-251E1CF42BC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{1ABDD25E-74A9-43E4-94DC-5E6236C4109B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1ABDD25E-74A9-43E4-94DC-5E6236C4109B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1ABDD25E-74A9-43E4-94DC-5E6236C4109B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290BE154-B7B6-4305-A99B-251E1CF42BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290BE154-B7B6-4305-A99B-251E1CF42BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290BE154-B7B6-4305-A99B-251E1CF42BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290BE154-B7B6-4305-A99B-251E1CF42BC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
