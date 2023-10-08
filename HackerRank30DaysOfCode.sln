@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day-15-LinkedList", "Day-15
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day-16-Exceptions", "Day-16-Exceptions\Day-16-Exceptions.csproj", "{FB862D22-A024-4EB2-9E6E-9C33A39E9928}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day-17-MoreExceptions", "Day-17-MoreExceptions\Day-17-MoreExceptions.csproj", "{F206A62C-FA09-4777-884F-EA6B45BA323E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{FB862D22-A024-4EB2-9E6E-9C33A39E9928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB862D22-A024-4EB2-9E6E-9C33A39E9928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB862D22-A024-4EB2-9E6E-9C33A39E9928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F206A62C-FA09-4777-884F-EA6B45BA323E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F206A62C-FA09-4777-884F-EA6B45BA323E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F206A62C-FA09-4777-884F-EA6B45BA323E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F206A62C-FA09-4777-884F-EA6B45BA323E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
