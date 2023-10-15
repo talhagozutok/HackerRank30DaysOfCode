@@ -61,6 +61,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day-27-Testing", "Day-27-Te
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day-28-RegexPatternsIntroToDatabases", "Day-28-RegexPatternsIntroToDatabases\Day-28-RegexPatternsIntroToDatabases.csproj", "{8340086D-157A-4809-B2C0-1C00458F3A04}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day-29-BitwiseAnd", "Day-29-BitwiseAnd\Day-29-BitwiseAnd.csproj", "{DFB51DB4-B797-4FB8-AA39-35F2E321C69A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{8340086D-157A-4809-B2C0-1C00458F3A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8340086D-157A-4809-B2C0-1C00458F3A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8340086D-157A-4809-B2C0-1C00458F3A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB51DB4-B797-4FB8-AA39-35F2E321C69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB51DB4-B797-4FB8-AA39-35F2E321C69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB51DB4-B797-4FB8-AA39-35F2E321C69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB51DB4-B797-4FB8-AA39-35F2E321C69A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
