@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day-25-RunningTimeAndComple
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day-26-NestedLogic", "Day-26-NestedLogic\Day-26-NestedLogic.csproj", "{D65F8F5C-7A1E-44A4-B67A-D49BD197B4B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day-27-Testing", "Day-27-Testing\Day-27-Testing.csproj", "{80D1ABDA-D179-4417-A6F6-3D22790FD3D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day-27-Testing", "Day-27-Testing\Day-27-Testing.csproj", "{80D1ABDA-D179-4417-A6F6-3D22790FD3D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day-28-RegexPatternsIntroToDatabases", "Day-28-RegexPatternsIntroToDatabases\Day-28-RegexPatternsIntroToDatabases.csproj", "{8340086D-157A-4809-B2C0-1C00458F3A04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{80D1ABDA-D179-4417-A6F6-3D22790FD3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80D1ABDA-D179-4417-A6F6-3D22790FD3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80D1ABDA-D179-4417-A6F6-3D22790FD3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8340086D-157A-4809-B2C0-1C00458F3A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8340086D-157A-4809-B2C0-1C00458F3A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8340086D-157A-4809-B2C0-1C00458F3A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8340086D-157A-4809-B2C0-1C00458F3A04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
